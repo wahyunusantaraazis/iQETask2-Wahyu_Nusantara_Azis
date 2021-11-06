@@ -1,5 +1,5 @@
 berisi codingan sederhana untuk menerapkan konsep workflow versioning git control.
-berisi 6 branch:
+berisi 5 branch:
 - main
 - development
   - fitur 1
