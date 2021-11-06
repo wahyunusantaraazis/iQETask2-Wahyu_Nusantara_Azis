@@ -5,8 +5,8 @@ public class Main {
         System.out.println("Hello Semesta");
         User newUser = new User();
 
-        newUser.setNama("Wahyu Nusantara Azis");
-        newUser.setHP("082114161323");
+        newUser.setNama("Naufal Alfarici");
+        newUser.setHP("0897488419486");
 
         System.out.println(newUser.getInfo());
     }
