@@ -1,4 +1,4 @@
-package com.perusahaan;
+package com.alterra;
 
 public class User {
     String HP;
